@@ -1,0 +1,2 @@
+2019, 01, 30, 18, 07, 07, 361, 265, 0:0:0:0:0:0:0:1, POST, /api/auth/token, anonymousUser, http-nio-8080-exec-2
+2019, 01, 30, 18, 07, 46, 003, 77, 0:0:0:0:0:0:0:1, POST, /api/auth/token, admin@test.com, http-nio-8080-exec-3
